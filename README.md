@@ -1,2 +1,10 @@
-# vagas
-Repositório para compartilhar as que temos em aberto.
+# Quem Somo
+
+# Nossos Valores 
+
+# Nossas Vagas
+
+# Como se aplicar 
+
+
+... 
