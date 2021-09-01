@@ -6,7 +6,7 @@ Uma consultoria que desenvolve pessoas enquanto desenvolve software.
 
 ## Porque existimos
 
-> Pra aprender e compartilhar uma abordagem de engenharia de software mais humana e consciente”
+> _Pra aprender e compartilhar uma abordagem de engenharia de software mais humana e consciente_
 
 ## Nossos Valores 
 
@@ -17,15 +17,18 @@ Uma consultoria que desenvolve pessoas enquanto desenvolve software.
 
 # Nossas Vagas
 
-| Técnologia        | Posições |
+| Técnologia                          | Posições |
 |---|---|
-| Java / Kotlin     | 11 |
-| Ruby              | 3  |
-| Elixir            | 0 |
-| Android / Kotlin  | 1 |
-| IOs               | 1 |
+| :coffee: Java / Kotlin              | 11 |
+| :gem: Ruby                          | 3  |
+| :iphone: Android / Kotlin           | 1  |
+| :iphone: IOs                        | 1  |
 
 # Como se aplicar 
 
+Para se aplicar nas vagas que temos em aberto basta acessar o link abaixo e se candidatar. 
 
-... 
+:point_right: [Aqui](https://docs.google.com/forms/d/1yXXRDj4MSHXDiPZxR1JWBWuh12mTseYWrZxSf_U7vOw/prefill) :point_left:
+
+
+![Fluxo do que acreditamos](img/banner-1.jpg)
