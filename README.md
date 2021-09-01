@@ -1,3 +1,5 @@
+![Fluxo do que acreditamos](img/banner-1.jpg)
+
 # Quem Somos
 
 Uma consultoria que desenvolve pessoas enquanto desenvolve software.
@@ -30,5 +32,3 @@ Para se aplicar nas vagas que temos em aberto basta acessar o link abaixo e se c
 
 :point_right: [Aqui](https://docs.google.com/forms/d/1yXXRDj4MSHXDiPZxR1JWBWuh12mTseYWrZxSf_U7vOw/prefill) :point_left:
 
-
-![Fluxo do que acreditamos](img/banner-1.jpg)
