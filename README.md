@@ -32,5 +32,5 @@ Caso queira conhecer um pouco mais sobre nós acesse [Jaya Tech](https://jaya.te
 
 Para se aplicar nas vagas que temos em aberto basta acessar o link abaixo e se candidatar. 
 
-:point_right: [Aqui](https://docs.google.com/forms/d/1yXXRDj4MSHXDiPZxR1JWBWuh12mTseYWrZxSf_U7vOw/prefill) :point_left:
+:point_right: [Aqui](https://bu8bvmptgrr.typeform.com/to/JTxGpg4U) :point_left:
 
