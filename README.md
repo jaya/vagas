@@ -17,6 +17,8 @@ Uma consultoria que desenvolve pessoas enquanto desenvolve software.
 * Aprenda a valorizar cada pessoa :punch:
 * Conecte-se com o impacto :electric_plug:
 
+Caso queira conhecer um pouco mais sobre nós acesse [Jaya Tech](https://jaya.tech/)
+
 # Nossas Vagas
 
 | Técnologia                          | Posições |
