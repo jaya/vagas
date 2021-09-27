@@ -27,7 +27,7 @@ Caso queira conhecer um pouco mais sobre nós acesse [Jaya Tech](https://jaya.te
 | :gem: Ruby                          | 3 |
 | :iphone: Android / Kotlin           | 1 |
 | :iphone: IOs                        | 1 |
-| 🔄  Node                               | 1 |
+| 🔄 Node                               | 1 |
 
 
 # Como se aplicar 
