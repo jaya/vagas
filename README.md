@@ -23,10 +23,12 @@ Caso queira conhecer um pouco mais sobre nós acesse [Jaya Tech](https://jaya.te
 
 | Técnologia                          | Posições |
 |---|---|
-| :coffee: Java / Kotlin              | 11 |
-| :gem: Ruby                          | 3  |
-| :iphone: Android / Kotlin           | 1  |
-| :iphone: IOs                        | 1  |
+| :coffee: Java / Kotlin              | 6 |
+| :gem: Ruby                          | 3 |
+| :iphone: Android / Kotlin           | 1 |
+| :iphone: IOs                        | 1 |
+| 🔄  Node                               | 1 |
+
 
 # Como se aplicar 
 
